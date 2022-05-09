@@ -1,0 +1,64 @@
+    {"devName':'C9300_Stack.ciscocom.local": [
+        {
+            "instanceUuid": "09a9dee4-7e42-4418-b23f-e9422e602b94",
+            "name": "Switch 3 - Power Supply A",
+            "description": "Switch 3 - Power Supply A",
+            "vendorEquipmentType": "cevPowerSupplyCat3kCT57xxC1Pwr1100wAc",
+            "serialNumber": "LIT22314CGA",
+            "operationalStateCode": "normal",
+            "productId": "PWR-C1-1100WAC    ",
+            "manufacturer": ""
+        },
+        {
+            "instanceUuid": "6d25c9fc-960b-4245-a979-7cb2e852ee24",
+            "name": "Switch 2 - Power Supply A",
+            "description": "Switch 2 - Power Supply A",
+            "vendorEquipmentType": "cevPowerSupplyCat3kCT57xxC1Pwr1100wAc",
+            "serialNumber": "LIT215123DM",
+            "operationalStateCode": "normal",
+            "productId": "PWR-C1-1100WAC    ",
+            "manufacturer": ""
+        },
+        {
+            "instanceUuid": "711b90e9-d9ad-4746-8b3a-bcae1eb57899",
+            "name": "Switch 1 - Power Supply B",
+            "description": "Switch 1 - Power Supply B",
+            "vendorEquipmentType": "cevPowerSupplyUnknown",
+            "serialNumber": "",
+            "operationalStateCode": "shutdown",
+            "productId": "",
+            "manufacturer": ""
+        },
+        {
+            "instanceUuid": "bfb2d5d2-c8ca-4109-ad41-c1a55d3000e1",
+            "name": "Switch 3 - Power Supply B",
+            "description": "Switch 3 - Power Supply B",
+            "vendorEquipmentType": "cevPowerSupplyUnknown",
+            "serialNumber": "",
+            "operationalStateCode": "shutdown",
+            "productId": "",
+            "manufacturer": ""
+        },
+        {
+            "instanceUuid": "c2d467ba-4fe9-4b86-b799-1b9453a0ec33",
+            "name": "Switch 2 - Power Supply B",
+            "description": "Switch 2 - Power Supply B",
+            "vendorEquipmentType": "cevPowerSupplyUnknown",
+            "serialNumber": "",
+            "operationalStateCode": "shutdown",
+            "productId": "",
+            "manufacturer": ""
+        },
+        {
+            "instanceUuid": "dcb76490-df82-49a2-9517-faef7235a133",
+            "name": "Switch 1 - Power Supply A",
+            "description": "Switch 1 - Power Supply A",
+            "vendorEquipmentType": "cevPowerSupplyCat3kCT57xxC1Pwr1100wAc",
+            "serialNumber": "LIT22314CEL",
+            "operationalStateCode": "normal",
+            "productId": "PWR-C1-1100WAC    ",
+            "manufacturer": ""
+        }
+    ]
+    }
+    
